@@ -16,4 +16,8 @@ git merge
 git remote
 git push
 git pull
+<<<<<< Develop
 git stash
+=======
+git stash
+>>>>>> main
